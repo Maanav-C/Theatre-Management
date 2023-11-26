@@ -26,7 +26,7 @@ All HTTP requests to Flask are made via encrypted POST messages. The system is d
 
 ## Documentation
 
- ####  [Project report and manual](https://docs.google.com/document/d/1FM910xSRuvSdctJPRQz1x_DkcXHST_NvCTRobD6exUI/edit?usp=sharing)
+ ####  [Project report and manual]
 
 <br />
 
